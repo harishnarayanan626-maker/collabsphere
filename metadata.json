@@ -1,0 +1,6 @@
+{
+  "name": "CollabSphere",
+  "description": "Student project tracking app with MySQL schema generator, task board, team formation, risk insights, and faculty overview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
